@@ -1,0 +1,121 @@
+ManuscriptID,Journal,Issue,Specialty,Outcome,Prediction-Type,Model-Type,Study-Type
+1,1,Aug-21,MIS,Complication,P,LR,D
+2,1,Jul-21,General,Intraoperative phase,D,DNN,D
+3,1,Jul-21,Surgical Oncology,Recurrence,D,LR,D&V
+4,1,Jul-21,Surgical Oncology,Metastases,D,LR,D
+5,1,Jun-21,HPB,Malignancy,D,SVM,D
+6,1,Jun-21,Thoracic,Metastases,D,LR,D
+7,1,May-21,Thoracic,Mortality,P,LR,D
+8,1,Apr-21,HPB,Disease course,P,LR,D
+9,1,Mar-21,Thoracic,Mortality,P,Lasso,D&V
+10,1,Feb-21,HPB,Complication,P,LR,IV
+11,1,Feb-21,General,Disease course,P,Elastic net algorithm (regularized generalized linear model),D
+12,1,Dec-20,General,Mortality,P,LR,IV
+13,1,Dec-20,General,Mortality,P,XGB,D
+14,1,Dec-20,Endocrine,Disease course,P,LDA,D
+15,1,Nov-20,HPB,Recurrence,P,Cox,D
+16,1,Oct-20,HPB,Mortality,P,Cox,D
+17,1,Oct-20,Trauma,Disease course,P,Bayesian network supervised learning,D&V
+18,1,Oct-20,General,Complication,D,NLP,D&V
+19,1,Sep-20,Transplant,Mortality,P,RF,D
+20,1,Sep-20,General,Intraoperative phase,D,DNN,V
+21,1,Aug-20,Surgical Oncology,Recurrence,P,Cox,D&V
+22,1,Jul-20,HPB,Malignancy,D,LR,D&V
+23,1,Dec-19,Colorectal,Complication,P,LR,D
+24,1,Dec-19,Burn,Disease course,P,LR,D
+25,1,Nov-19,Endocrine,Mortality,P,LR,D
+26,1,Nov-19,Colorectal,Mortality,P,Cox,D
+27,1,Nov-19,Colorectal,Recurrence,P,LR,D
+28,1,Sep-19,HPB,Recurrence,P,LR,D
+29,1,Sep-19,General,Intraoperative phase,D,DNN,D
+30,1,Sep-19,General,Complication,P,LR,D
+31,1,Jul-19,Multi-specialty,Frailty,D,LR,D&V
+32,1,Jul-19,Thoracic,Disease course,P,LR,D
+33,1,Jun-19,Multi-specialty,Mortality,P,LR,V
+34,1,May-19,HPB,Complication,P,LR,D&V
+35,1,Apr-19,Multi-specialty,Mortality,P,GAM,D
+36,1,Feb-19,HPB,Complication,D,LR,D&V
+37,1,Jan-19,HPB,Mortality,P,Cox,D&V
+38,1,Oct-18,General,Mortality,P,OCT decision tree,D&V
+39,1,Aug-18,Thoracic,Recurrence,P,Cox,D&V
+40,1,Aug-18,HPB,Malignancy,D,LR and Decision Tree,V
+41,1,Jun-18,HPB,Disease course,P,LR,D
+42,1,Jun-18,HPB,Recurrence,P,Cox,D
+43,1,Apr-18,MIS,Disease course,P,LR,D
+44,1,Mar-18,Surgical Oncology,Mortality,P,Lasso Cox,D&V
+45,1,Mar-18,Colorectal,Mortality,P,LR and Cox,D
+46,1,Feb-18,Multi-specialty,Complication,D,LR,D
+47,1,Feb-18,Surgical Oncology,Disease course,P,Cox,D&V
+48,1,Jan-18,HPB,Malignancy,P,LR,D&V
+49,1,Apr-20,Transplant,Mortality,P,LR and Cox,D
+50,2,Jun-21,Thoracic,Mortality,P,LR,D
+51,2,Dec-21,Transplant,Disease course,P,LR,D&V
+52,2,Nov-19,Multi-specialty,Cost,P,Logic forest (Ensemble),D
+53,2,May-19,Trauma,Disease course,P,penalized LR,D&V
+54,2,May-18,Transplant,Disease course,P,LR,D
+55,2,Jul-18,Orthopedics,Disease course,P,LR,D
+56,2,Dec-18,General,Mortality,P,LR,D&V
+57,2,Sep-18,Endocrine,Malignancy,D,Ensemble (elastic net and SVM),D
+58,2,Mar-19,Surgical Oncology ,Metastasis,D,LR,D&V
+59,2,Apr-19,Multi-specialty,Complication,D,LR,D
+60,2,Apr-19,Vascular,Mortality,P,LR,D
+61,2,Jun-19,HPB,Disease course,P,LR,D
+62,2,Sep-20,HPB,Recurrence,P,LR,D&V
+63,2,Feb-21,Thoracic,Recurrence,P,XGB,D&V
+64,2,Jun-21,Transplant,Mortality,P,Cox,V
+65,3,Jun-21,HPB,Complication,P,LR,D
+66,3,Jun-21,General,Complication,P,Lasso,D&V
+67,3,Jun-21,General,Mortality,P,OCT,V
+68,3,Jan-21,Trauma,Disease course,P,"LR, RF, XGB",D
+69,3,Dec-20,Surgical oncology,Mortality,P,LR,V
+70,3,May-20,MIS,Intraoperative phase,D,CNN,D
+71,3,Apr-20,HPB,Mortality,P,LR,D
+72,3,Apr-20,HPB,Complication,P,GEE (conventional),D
+73,3,Apr-20,HPB,Mortality,P,LR,V
+74,3,Jan-20,General,Disease course,P,LR,D
+75,3,Jan-20,Multi-specialty,Mortality,P,Hill climbing ML,D
+76,3,Jan-20,Multi-specialty,Mortality,P,LR,IV
+77,3,Oct-19,Multi-specialty,Operative time,P,XGB,D
+78,3,Oct-19,Multi-specialty,Complication,P,LR,D
+79,3,Sep-19,General,Disease course,P,LR,D
+80,3,May-19,HPB,Malignancy,P,"Lasso, SVM",D
+81,3,Mar-19,Trauma,Management,P,RF,D
+82,3,Aug-18,HPB,Metastases,D,LR,D&V
+83,3,Jun-18,HPB,Complication,P,LR,IV
+84,3,Jun-18,HPB,Mortality,P,LR,D
+85,3,Apr-18,HPB,Mortality,P,LR,D
+86,3,Mar-18,Surgical oncology,Mortality,P,Cox,V
+87,4,Aug-21,Colorectal,Mortality,P,Cox,D&V
+88,4,Aug-21,Vascular,Condition,D,LR,D&V
+89,4,Aug-21,Vascular,Mortality,P,Lasso,D
+90,4,May-21,Surgical oncology,Metastases,D,DL,D&V
+91,4,Apr-21,Multi-specialty,Mortality,P,LR,D
+92,4,Apr-21,HPB,Mortality,P,Decision Tree,D
+93,4,Dec-20,Surgical oncology,Mortality,P,Cox,D&V
+94,4,Nov-20,Surgical oncology,Mortality,P,Spline,D&V
+95,4,Jul-20,Thoracic,Mortality,P,Cox,D
+96,4,Jul-20,Thoracic,Recurrence,P,Ensemble,D&V
+97,4,Jul-20,Vascular,Condition,D,Superlearner,D
+98,4,Jun-20,HPB,Mortality,P,Contour plot,D&V
+99,4,Jun-20,HPB,Mortality,P,Cox,D&V
+100,4,May-20,HPB,Complications,P,Lasso,D
+101,4,Mar-20,Trauma,Mortality,P,LR,V
+102,4,Mar-20,Trauma,Mortality,P,LR,V
+103,4,Jan-20,Colorectal,Disease course,P,LR,D
+104,4,Jan-20,General,Condition,D,Other (validates a mix of ML and regression models),V
+105,4,Nov-19,Colorectal,Complications,P,LR,D&V
+106,4,Oct-19,Multi-specialty,Mortality,P,Lasso,IV
+107,4,Sep-19,Surgical oncology,Mortality,P,Cox,IV
+108,4,Aug-19,Surgical oncology,Mortality,P,Cox,D&V
+109,4,May-19,Trauma,Disease course,P,Linear regression,D
+110,4,Feb-19,Surgical oncology,Mortality,P,Cox,D
+111,4,Dec-18,Colorectal,Mortality,P,LR,D
+112,4,Oct-18,Thoracic,Metastases,D,LR,D
+113,4,Sep-18,Vascular,Complications,P,Cox,D&V
+114,4,Aug-18,HPB,Complications,P,LR,D
+115,4,Aug-18,HPB,Complications,P,Cox,D
+116,4,Aug-18,Vascular,Mortality,P,LR,D&V
+117,4,Aug-18,Colorectal,Mortality,P,Cox,D&V
+118,4,Apr-18,Trauma,Mortality,P,LR,D&V
+119,4,Jan-18,HPB,Complications,P,LR,D
+120,4,Jan-18,Colorectal,Disease course,P,LR,D
